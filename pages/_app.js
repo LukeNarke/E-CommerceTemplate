@@ -13,7 +13,6 @@ function MyApp({ Component, pageProps }) {
           name="description"
           content="E-commerce store built with Next.js and Stripe checkout by AlterClass.io"
         />
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <CartProvider>
