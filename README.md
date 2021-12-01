@@ -7,4 +7,4 @@ NextJS
 Axios
 Heroicons
 Stripe
-TailwindCSs
+TailwindCSS
