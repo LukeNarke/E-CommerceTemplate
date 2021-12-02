@@ -1,5 +1,6 @@
 import "tailwindcss/tailwind.css";
 import Head from "next/head";
+// shopping cart 
 import { CartProvider } from "@/hooks/use-shopping-cart";
 import { Header, Footer } from "@/components/index";
 import { Toaster } from "react-hot-toast";
