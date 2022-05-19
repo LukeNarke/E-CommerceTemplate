@@ -1,6 +1,3 @@
-// 4 tops
-// 4 bottoms
-
 // in a live production environment, these would be stored in a db then pulled through an API request
 
 const products = [
