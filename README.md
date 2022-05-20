@@ -1,4 +1,4 @@
-Hosted on:
+Host:
 https://ecomexlukenarke.vercel.app/
 
 Made with:
