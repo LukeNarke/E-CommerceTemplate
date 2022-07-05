@@ -24,6 +24,7 @@ const Success = () => {
     }
   }, [data]);
 
+//   turn into consts so we can have semantic code
   return (
     <div className="container xl:max-w-screen-xl mx-auto py-12 px-6 text-center">
       {error ? (
