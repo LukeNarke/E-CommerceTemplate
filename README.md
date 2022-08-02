@@ -8,3 +8,6 @@ Axios
 Heroicons
 Stripe
 TailwindCSS
+
+TODO:
+Convert to TypeScript
