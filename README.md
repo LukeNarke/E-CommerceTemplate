@@ -10,4 +10,4 @@ Stripe
 TailwindCSS
 
 TODO:
-Convert to TypeScript
+Convert to TypeScript one step at a time
